@@ -2,6 +2,12 @@
 
 Parse logs to get statistics like total kills, kills by player, and more.
 
+## Requirements
+
+To install and run the project, it is required to have installed on your machine
+
+- Python `>=3.8`
+
 ## Installation
 
 In order to install and the program, run
